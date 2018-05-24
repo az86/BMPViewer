@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMPViewer", "BMPViewer\BMPViewer.csproj", "{FBFCA6B2-BE36-442E-BCD0-A0F754FBC6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFCA6B2-BE36-442E-BCD0-A0F754FBC6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFCA6B2-BE36-442E-BCD0-A0F754FBC6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFCA6B2-BE36-442E-BCD0-A0F754FBC6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFCA6B2-BE36-442E-BCD0-A0F754FBC6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81279ED5-9AFD-4800-96DC-C76B28AD6E26}
+	EndGlobalSection
+EndGlobal
